@@ -103,7 +103,7 @@ public class ElevensBoard extends Board {
      *                      of indexes into this board that are searched
      *                      to find a JQK group.
      * @return true if the board entries in selectedCards
-     *              include a jack, a queen, and a king; false otherwise.
+     *              include a jack, a queen, and a king; false otherwise.a
      */
     private boolean containsK(List<Integer> selectedCards) {
 ;
